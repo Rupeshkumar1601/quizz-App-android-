@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835265000032",
+    "project_id": "quiz-wiz-55eff",
+    "storage_bucket": "quiz-wiz-55eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835265000032:android:5f1898ad281983f7700905",
+        "android_client_info": {
+          "package_name": "com.example.quizwiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1s7baDxHSLcs8O9-RG1HX8TInd4u-k04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
